@@ -1,4 +1,4 @@
-# Gestion des tâches d’un projet (gest_taches)
+# 1️⃣ Gestion des tâches d’un projet (gest_taches)
 
 ## Contexte
 Dans le développement logiciel, un projet est structuré en tâches et sous-tâches organisées hiérarchiquement (WBS). Ce projet vise à modéliser cette hiérarchie à l’aide d’un arbre général représenté sous forme d’arbre binaire.
